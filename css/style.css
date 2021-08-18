@@ -69,7 +69,7 @@ body {
   height: 861.75px;
   background-color: #b5caee;
   background-image: url(../images/hero-bg-1.png);
-  background-size: 1532px 861.75px ;
+  background-size: 1850px;
 }
 
 .sub_page .hero_area {
@@ -223,7 +223,7 @@ a:focus {
 .slider_section .detail-box h1 {
   font-size: 4rem;
   color: 	white ;
-  letter-spacing: 0.7rem;
+  letter-spacing: 0.1rem;
   font-weight: bold;
   text-transform: uppercase;
   padding: 15px;
@@ -330,7 +330,7 @@ a:focus {
 }
 
 .about_section .img_container .img-box {
-  width: 80%;
+  width: 60%;
 }
 
 .about_section .img_container .img-box img {
