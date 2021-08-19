@@ -440,9 +440,10 @@ a:focus {
   left: 35px;
   bottom: 25px;
   font-weight: bold;
-  color: 	#1C5750;
+  color: #008b8b;
   font-size: 24px;
 }
+
 
 .course_section .course_container .course_content .box::before {
   content: "";
