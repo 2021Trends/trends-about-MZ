@@ -330,11 +330,12 @@ a:focus {
 }
 
 .about_section .img_container .img-box {
-  width: 60%;
+  width: 100%;
 }
 
 .about_section .img_container .img-box img {
-  width: 150%;
+  width: 100%;
+  text-align: center;
 }
 
 .about_section .img_container .img-box.b2 {
